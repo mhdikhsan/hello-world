@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hello ini uji coba GitHub pertama saya :)
